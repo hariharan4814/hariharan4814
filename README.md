@@ -1,27 +1,79 @@
-# 💫 About Me:
-## 👋 Hi, I'm Hariharan B<br><br>💻 Aspiring Software Engineer | Python Developer | AI Enthusiast  <br>🎓 M.Sc. Computer Science Student at PSG College of Arts and Science, Coimbatore  <br>🚀 Passionate about AI, Full Stack Development, and Problem Solving  <br>🌱 Currently preparing for Software Placements and building impactful projects  <br><br>---<br><br>🔭 **I'm currently working on**  <br>AI-powered Smart Farm Monitoring & Management System using Python, Flask, YOLOv8, and OpenCV.<br><br>👯 **I'm looking to collaborate on**  <br>Open Source Projects, Python Applications, AI/ML Projects, and Full Stack Web Development.<br><br>🤝 **I'm looking for help with**  <br>Advanced Data Structures & Algorithms, System Design, Open Source Contributions, and Software Engineering Best Practices.<br><br>🌱 **I'm currently learning**  <br>Data Structures & Algorithms (Python), Full Stack Development, SQL, AI/ML, Cloud Computing, and Problem Solving.<br><br>💬 **Ask me about**  <br>Python, Flask, Git, GitHub, SQL, Web Development, AI Projects, UI/UX Design, and Software Development.<br><br>⚡ **Fun fact**  <br>I enjoy building real-world software solutions, learning new technologies, and solving challenging programming problems every day.
+# 👋 Hi, I'm Hariharan B
 
+### 💻 Aspiring Software Engineer | Python Developer | AI Enthusiast
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sanjeeev.b) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hariharan4814/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hariharan4814@gmail.com) 
+🎓 M.Sc. Computer Science Student at **PSG College of Arts and Science, Coimbatore**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hariharan4814&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hariharan4814&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hariharan4814&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hariharan4814&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hariharan4814&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🚀 Passionate about building AI-powered applications, full-stack web solutions, and solving real-world problems through technology.
 
 ---
-[![](https://komarev.com/ghpvc/?username=hariharan4814&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🔭 Building an **AI-powered Smart Farm Monitoring & Management System** using Python, Flask, YOLOv8 & OpenCV.
+- 🌱 Currently mastering **Data Structures & Algorithms (Python)** and preparing for Software Placements.
+- 👯 Open to collaborating on **Python, AI/ML, Open Source, and Full Stack Development** projects.
+- 💬 Ask me about **Python, SQL, Flask, Git, GitHub, Web Development, and AI Projects**.
+- ⚡ I believe in learning by building real-world projects.
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Crack a Software Engineer role through campus placements
+- 📚 Solve 300+ DSA problems
+- 🚀 Contribute to Open Source Projects
+- 🌐 Build scalable Full Stack Applications
+- 🤖 Learn Advanced AI & Machine Learning
+- ☁️ Explore Cloud Computing and DevOps
+
+---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariharan4814/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sanjeeev.b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariharan4814@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+<!-- Your badges here -->
+
+---
+
+## 🛠️ Featured Projects
+
+### 🌾 Smart Farm Monitoring & Management System
+> AI-powered farm security and workforce management using **YOLOv8**, **Flask**, **OpenCV**, and **Python**.
+
+### 🌱 Crop Yield Prediction
+> Machine Learning model for predicting crop yield using environmental and soil parameters.
+
+### 🌐 Personal Portfolio Website
+> Responsive portfolio built using **React**, **Vercel**, and modern UI principles.
+
+---
+
+## 📜 Certifications
+
+- Meta Full Stack Developer
+- Google UX Design
+- Python for Everybody
+- NxtWave CCBP 4.0 Academy
+
+---
+
+## 🏆 Achievements
+
+🥈 Second Prize – UX Arena Competition (PSG College of Arts and Science)
+
+🎯 Actively preparing for Software Engineering placements
+
+---
+
+![](https://komarev.com/ghpvc/?username=hariharan4814&style=for-the-badge&color=blue)
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
