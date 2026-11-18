@@ -3,13 +3,12 @@ PROFILE SETUP NOTES (hidden when rendered on GitHub)
 Save this file as README.md in the public hariharan4814/hariharan4814 repository.
 This .txt contains GitHub Markdown and HTML.
 
-The profile text and contact badges are ready to use. Optional sections below
-are commented out until their required assets or services are available.
+The banner, profile text and contact badges are ready to use. Stats and snake
+sections are commented out until their services or generated assets are available.
 
-BANNER: Upload dark.svg and light.svg to the main branch, then uncomment the
-banner block. A portrait photo and logo references are still needed to create
-the animated banner described in the supplied master prompt.
-Requested morph order: Python -> HTML -> CSS -> JS -> SQL.
+BANNER: Upload dark.svg and light.svg to the main branch. The supplied SVGs animate your portrait and your uploaded artwork.
+Upload both SVGs alongside README.md; the banner block is enabled.
+Requested morph order: Face -> Coding -> Vercel -> Face -> Database -> API -> repeat.
 Palette: violet portrait, cyan UI, emerald accents; dark background #0A101F.
 
 STATS: Deploy your own anuraghazra/github-readme-stats instance, configure its
@@ -19,19 +18,17 @@ Uncomment the stats block after checking that the deployed endpoints work.
 The rank is hidden to keep the emphasis on activity. Top languages reflect
 repository code volume, not a measure of proficiency.
 
-SNAKE: Create .github/workflows/snake.yml using the workflow at the end of this
-file. Run it and confirm the output branch contains both SVGs before uncommenting
+SNAKE: Create .github/workflows/snake.yml using the separate workflow supplied in this
+package. Run it and confirm the output branch contains both SVGs before uncommenting
 the contribution-snake block. The workflow grants contents: write to its job.
 These assets, hosting, and workflow have not been deployed by creating this file.
 -->
 
-<!-- OPTIONAL ANIMATED BANNER: uncomment after uploading both SVGs.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hariharan4814/hariharan4814/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hariharan4814/hariharan4814/main/light.svg">
   <img width="100%" alt="HARIHARAN B - Full Stack Developer" src="https://raw.githubusercontent.com/hariharan4814/hariharan4814/main/light.svg">
 </picture>
--->
 
 <div align="center">
 
@@ -135,39 +132,3 @@ GitHub        : https://github.com/hariharan4814
     <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logoColor=22D3EE" alt="Visit Hariharan's portfolio">
   </a>
 </div>
-
-<!--
-OPTIONAL WORKFLOW
-Copy only the YAML below into .github/workflows/snake.yml in your profile repo.
-Adapted from the supplied setup guide; not executed as part of this file creation.
-
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=0891B2&color_dots=#ebedf0,#a5b4fc,#818cf8,#6366f1,#0891B2
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=10B981&color_dots=#2d3343,#4b5563,#7C3AED,#A78BFA,#22D3EE
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: "Update snake animation [skip ci]"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
